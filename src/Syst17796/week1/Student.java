@@ -9,6 +9,7 @@ public class Student {
 
     private int id;
     private String name;
+    String programName;
 
     /**
      * @return the id
